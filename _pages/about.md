@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Short Bio
-======
 I am currently a Ph.D. student at [GIPSA-LAB]("https://www.gipsa-lab.grenoble-inp.fr/en"),  University of Grenoble Alpes. \\
 My area of research includes Kalman Filtering, Sensor Fusion, Navigation, Estimation, and Cyber-Physical Security.
 
