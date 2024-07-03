@@ -272,7 +272,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _achievements
+  - scope:
+      path: ""
+      type: achievements
+    values:
+      layout: achievements
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
