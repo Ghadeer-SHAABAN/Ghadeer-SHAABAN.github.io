@@ -1,8 +1,10 @@
 # main links links
 main:
+  - title: "About"
+    url: "https://ghadeer-shaaban.github.io"
   - title: "Publications/Research"
     # url: /publications/
-    url: "{{site.author.googlescholar}}"
+    url: "https://scholar.google.com/citations?user=PzQl5swAAAAJ&hl=en"
   - title: "Talks"
     url: /talks/    
 
