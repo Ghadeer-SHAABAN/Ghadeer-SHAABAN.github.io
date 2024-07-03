@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at [GIPSA-LAB]("https://www.gipsa-lab.grenoble-inp.fr/en"),  University of Grenoble Alpes. \\
+
+I am currently a Ph.D. student at <a href=""https://www.gipsa-lab.grenoble-inp.fr/en" target="_blank">GIPSA-LAB</a>,  University of Grenoble Alpes. \\
 My area of research includes Kalman Filtering, Sensor Fusion, Navigation, Estimation, and Cyber-Physical Security.
 
 
 Short Bio
 ======
-- (10-2022 to 10- 2025)  PhD student at [GIPSA-LAB]("https://www.gipsa-lab.grenoble-inp.fr/en"), University of Grenoble Alpes, Grenoble, France.  The PhD with title "Magneto-Visual-Inertial Navigation with Invariance and Learning: Improving Estimation in Benign Cases and under Attacks". Teaching assistant for Masters M1 and M2, at [Grenoble-INP,ENSE3]("https://ense3.grenoble-inp.fr/), and [Université grenoble alpes, Phitem]("https://phitem.univ-grenoble-alpes.fr/")
+- (10-2022 to 10- 2025)  PhD student at [GIPSA-LAB]("https://www.gipsa-lab.grenoble-inp.fr/en"), University of Grenoble Alpes, Grenoble, France.  The PhD with title "Magneto-Visual-Inertial Navigation with Invariance and Learning: Improving Estimation in Benign Cases and under Attacks". Teaching assistant for Masters M1 and M2, at [Grenoble-INP, ENSE3]("https://ense3.grenoble-inp.fr/), and [Université grenoble alpes, Phitem]("https://phitem.univ-grenoble-alpes.fr/")
 
 - (02-2022 to 08-2022) M.Sc. Intern at [GIPSA-LAB]("https://www.gipsa-lab.grenoble-inp.fr/en"), University of Grenoble Alpes, Grenoble, France. The internship with title: Hybrid navigation using inertial and vision data.
 
