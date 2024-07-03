@@ -5,9 +5,16 @@ main:
   - title: "Publications/Research"
     # url: /publications/
     url: "https://scholar.google.com/citations?user=PzQl5swAAAAJ&hl=en"
+
+  - title: "Activities"
+    url: /activities/   
+
+  - title: "Achievements/Awards" 
+    url: /Achievements/  
+  - title: "Projects"
+    url: /Projects/
   - title: "Talks"
     url: /talks/    
 
-  - title: "Activities"
-    url: /activities/    
+ 
     
