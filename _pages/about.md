@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently a Ph.D. student at <a href=""https://www.gipsa-lab.grenoble-inp.fr/en" target="_blank">GIPSA-LAB</a>,  University of Grenoble Alpes. \\
+I am currently a Ph.D. student at <a href="https://www.gipsa-lab.grenoble-inp.fr/en" target="_blank">GIPSA-LAB</a>,  University of Grenoble Alpes. \\
 My area of research includes Kalman Filtering, Sensor Fusion, Navigation, Estimation, and Cyber-Physical Security.
 
 
