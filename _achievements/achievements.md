@@ -1,13 +1,11 @@
 ---
-permalink: /
+permalink: /achievements
 title: "Achievements and Awards"
 author_profile: true
 redirect_from: 
   - /achievements/
   - /achievements.html
 ---
-
-s
 
 Grants
 ======
