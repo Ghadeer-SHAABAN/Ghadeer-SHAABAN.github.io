@@ -2,10 +2,7 @@
 main:
   - title: "Publications/Research"
     # url: /publications/
-    url: <a  target="_blank" href="{{site.author.googlescholar}}">
-  - {% if author.googlescholar %}
-        <li><a target="_blank" href="{{ author.googlescholar }}"></a></li>
-      {% endif %}
+    url: "{{site.author.googlescholar}}"
   - title: "Talks"
     url: /talks/    
 
