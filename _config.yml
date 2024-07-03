@@ -213,9 +213,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  achievements:
-    output: true
-    achievements: /:collection/:path/
+  # achievements:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -272,14 +272,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _achievements
-  - scope:
-      path: ""
-      type: achievements
-    values:
-      layout: achievements
-      author_profile: true
-      share: true
+
 
 # Sass/SCSS
 sass:
