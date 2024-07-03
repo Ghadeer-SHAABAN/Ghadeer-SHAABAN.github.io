@@ -10,7 +10,7 @@ main:
     url: /activities/   
 
   - title: "Achievements/Awards" 
-    url: /Achievements/  
+    url: /achievements/  
   - title: "Projects"
     url: /Projects/
   - title: "Talks"
