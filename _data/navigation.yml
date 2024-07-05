@@ -6,15 +6,19 @@ main:
     # url: /publications/
     url: "https://scholar.google.com/citations?user=PzQl5swAAAAJ&hl=en"
 
-  - title: "Activities"
-    url: /activities/   
+  # - title: "Activities"
+  #   url: /activities/   
+  - title: "Work Experience"
+    url: /experience/   
 
   - title: "Achievements/Awards" 
     url: /achievements/  
   - title: "Projects"
-    url: /Projects/
-  - title: "Talks"
-    url: /talks/    
+    url: /projects/
+  - title: "News"
+    url: /news/
+  # - title: "Talks"
+  #   url: /talks/    
 
  
     
