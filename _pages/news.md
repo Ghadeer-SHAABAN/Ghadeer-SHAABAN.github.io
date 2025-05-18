@@ -6,7 +6,7 @@ author_profile: true
 #   - /achievements/
 #   - /achievements.html
 ---
-
+- [24-27 June 2025]  I am presenting my work at <a href="https://ecc25.euca-ecc.org/" target="_blank">the 2025 European Control Conference (ECC)</a>  which is held in Thessaloniki, Greece, from June 24 to 27, 2025. Additionally, I chair the "Sensor and Signal Fusion" session and co-chair the "Fault Tolerant Systems" session at the conference.
 - [15 July - 07 Oct 2024] I am doing research visit at the University of Ottawa with Dr. Mohammad Pirani , Ottawa, Canada. This research is funded by the <a href="https://www.mitacs.ca/" target="_blank"> Mitacs Globalink Research Award</a> for the period from 15 july to 07 october 2024.
 - [10-12 July 2024]  I am presenting my work at <a href="https://acc2024.a2c2.org/" target="_blank">the 2024 American Control Conference (ACC)</a>  which is held in Tornoto, Canada, from July 10 to 12, 2024.
 - [29-31 May 2024] I am presenting my work at <a href="https://sagip2024.sciencesconf.org/" target="_blank">the second conference of SAPIP</a>  (Société d'Automatique, de Génie Industriel et de Productique), which is held in Lyon, France, from May 29 to 31, 2024.

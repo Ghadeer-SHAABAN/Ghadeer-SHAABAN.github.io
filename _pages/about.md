@@ -23,6 +23,8 @@ Short Bio
 - (10-2022 to 10- 2025)  PhD student at <a href="https://www.gipsa-lab.grenoble-inp.fr/en" target="_blank">GIPSA-LAB</a>, University of Grenoble Alpes, Grenoble, France.  The PhD with title "Magneto-Visual-Inertial Navigation with Invariance and Learning: Improving Estimation in Benign Cases and under Attacks", supervised by 
  <a href="https://scholar.google.fr/citations?user=sR1OVycAAAAJ&hl=fr" target="_blank">Hassen FOURATI</a>, <a href="https://www.gipsa-lab.grenoble-inp.fr/user/alain.kibangou" target="_blank">Alain KIBANGOU</a>, and <a href="https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/" target="_blank">Christophe PRIEUR</a>. Teaching assistant for Masters M1 and M2, at <a href="https://ense3.grenoble-inp.fr/" target="_blank">Grenoble-INP, ENSE3</a>, and <a href="https://phitem.univ-grenoble-alpes.fr/" target="_blank">Université Grenoble Alpes, Phitem</a>.
 
+- (07-2024 to 10-2024) Visiting PhD at the University of Ottawa, Ottawa, Canada, working on a project titled "Enhancing the Security and Reliability of Navigation Systems".
+
 - (02-2022 to 08-2022) M.Sc. Intern at <a href="https://www.gipsa-lab.grenoble-inp.fr/en" target="_blank">GIPSA-LAB</a>, University of Grenoble Alpes, Grenoble, France. The internship with title:  Q-Learning-Based Noise Covariance
 Adaptation in Kalman Filter For Velocity
 Estimation.
