@@ -29,6 +29,7 @@ author_profile: true
 ## Conferences
 
 1. **G. Shaaban, H. Fourati, A. Kibangou, C. Prieur, and M. Pirani**, *"Cyber-physical security of vehicles: Zero dynamics attacks against vehicle’s lateral dynamics,"* accepted in the 23rd European Control Conference (ECC), Thessaloniki, Greece, 2025.
+
    **Note:** This work has been invited to the European Journal of Control Special Issue of the 2025 European Control Conference. The revised version is under review now.
 
 2. **G. Shaaban, H. Fourati, A. Kibangou, and C. Prieur**, *"Secure MARG sensor-based attitude estimation on SO(3) under randomly occurring false data injection attacks,"* accepted in the 23rd European Control Conference (ECC), Thessaloniki, Greece, 2025.  
