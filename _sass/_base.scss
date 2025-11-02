@@ -230,6 +230,31 @@ figure {
       width: 100%;
     }
   }
+
+  &.equal-height {
+    align-items: stretch;
+    flex-wrap: nowrap;
+
+    > a,
+    > img {
+      flex: 1 1 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-right: 1rem;
+
+      &:last-child {
+        margin-right: 0;
+      }
+    }
+
+    img {
+      width: 100%;
+      height: auto;
+      max-height: 22rem;
+      object-fit: contain;
+    }
+  }
 }
 
 /* Figure captions */

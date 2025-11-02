@@ -10,7 +10,7 @@ author_profile: true
 Ph.D. Student [Oct 2022 - Sept 2025]
 ====== 
 Grenoble Images Speech Signal and Control, GIPSA-lab, Grenoble, France, Oct 2022 - Sept 2025.
-- Project title: Magneto-Visual-Inertial Navigation with Invariance and Learning: Improving Estimation in Benign Cases and under Attacks, supervised by 
+- Project title: Contributions to Navigation Under Unknown Input and Cyber-Physical Security, supervised by 
  <a href="https://scholar.google.fr/citations?user=sR1OVycAAAAJ&hl=fr" target="_blank">Hassen FOURATI</a>, <a href="https://www.gipsa-lab.grenoble-inp.fr/user/alain.kibangou" target="_blank">Alain KIBANGOU</a>, and <a href="https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/" target="_blank">Christophe PRIEUR</a>. \\
 Objectives: Our aim in this project is to extend the concept of invariance and estimation on manifolds to handle attacks and unknown inputs, which will significantly impact navigation estimation in the presence of attacks. 
 
