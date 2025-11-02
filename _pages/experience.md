@@ -7,6 +7,17 @@ author_profile: true
 #   - /achievements.html
 ---
 
+Guidance, Navigation & Control Engineer-PhD [Oct 2025 - Present]
+====== 
+<a href="https://hylight.aero/" target="_blank">HyLight (YC S23)</a>, France, Oct 2025 - Present.
+- Guidance, Navigation, and Control (GNC) of the airship drone.
+- Modeling of the airship’s dynamics.
+- Design and implementation of guidance and control laws for mission execution.
+- Development of flight strategies for challenging or adverse conditions.
+- Risk mitigation strategies for degraded operating modes.
+- Definition and participation in ground and flight tests.
+- Documentation of models, control laws, and implemented systems.
+
 Ph.D. Student [Oct 2022 - Sept 2025]
 ====== 
 Grenoble Images Speech Signal and Control, GIPSA-lab, Grenoble, France, Oct 2022 - Sept 2025.
