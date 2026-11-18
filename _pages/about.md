@@ -5,19 +5,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-gallery_hylight:
-  - image_path: hylight-hylighter-flight.jpg
-    alt: "Ghadeer Shaaban with the HyLighter airship in flight"
-  - image_path: hylight-hylighter-preflight.jpg
-    alt: "Ghadeer Shaaban beside the HyLighter airship on the runway"
 ---
 
 
-I am a Guidance, Navigation & Control (GNC) Engineer-PhD at <a href="https://hylight.aero/" target="_blank">HyLight (YC S23)</a>, where we build the HyLighter: an hydrogen-powered airship drone that flies long distances with zero emissions to capture precise data over critical infrastructure. Our mission is to replace the helicopters that still inspect hundreds of thousands of kilometres of power lines, pipelines, and railways every year. 
-
-In this role I apply the estimation and control algorithms, embedded systems expertise, physics background, problem-solving mindset, and research experience developed throughout my studies and PhD while expanding my knowledge in aerodynamics. These responsibilities build on my work in Kalman Filtering, Sensor Fusion, Navigation, Estimation, and Cyber-Physical Security.
-
-{% include gallery id="gallery_hylight" class="equal-height" %}
+I am a Guidance, Navigation & Control (GNC) engineer and PhD graduate in Automatic Control, with experience in navigation, state estimation, sensor fusion, and Kalman filtering.
 
 Education
 ======

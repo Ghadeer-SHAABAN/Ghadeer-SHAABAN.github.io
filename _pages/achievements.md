@@ -6,7 +6,9 @@ author_profile: true
 #   - /achievements/
 #   - /achievements.html
 ---
-- I graduated as the top student in my Master's program in Mobile, Autonomous, and Robotic Systems (MARS) at Grenoble-INP, ENSE3, Grenoble, France. I achieved a final grade of 16.84/20 out of a group of 16 students.
+- I received the 2025 Best PhD Award from the EEATS Doctoral School (Électronique, Électrotechnique, Automatique et Traitement du Signal) at Université Grenoble Alpes (UGA), selected among the 100 doctoral students who defended their theses at the school in 2025.
+
+- I graduated as the top student in my Master’s program in Mobile, Autonomous, and Robotic Systems (MARS) at Grenoble-INP, ENSE3, Grenoble, France. I achieved a final grade of 16.84/20.
 
 - During my five-year study in B.Sc. Electronic Systems Engineering at the Higher Institute for Applied Sciences and Technology in Damascus, Syria, I consistently ranked first among my classmates. The number of students I ranked ahead of each year were: 62, 47, 8, 13, and 13 respectively. My final grade upon graduation was 92.03.
 
